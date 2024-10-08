@@ -5,5 +5,4 @@ app.MapDefaultControllerRoute();
 app.UseStaticFiles();
 
 app.MapGet("/", () => "Hello World!");
-
 app.Run();

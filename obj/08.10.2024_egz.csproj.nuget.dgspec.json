@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\08.10.2024_egz\\08.10.2024_egz.csproj": {}
+    "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\08.10.2024_egz\\08.10.2024_egz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\08.10.2024_egz\\08.10.2024_egz.csproj": {
+    "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\08.10.2024_egz\\08.10.2024_egz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\08.10.2024_egz\\08.10.2024_egz.csproj",
+        "projectUniqueName": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\08.10.2024_egz\\08.10.2024_egz.csproj",
         "projectName": "08.10.2024_egz",
-        "projectPath": "C:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\08.10.2024_egz\\08.10.2024_egz.csproj",
+        "projectPath": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\08.10.2024_egz\\08.10.2024_egz.csproj",
         "packagesPath": "C:\\Users\\kapig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\08.10.2024_egz\\obj\\",
+        "outputPath": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\08.10.2024_egz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

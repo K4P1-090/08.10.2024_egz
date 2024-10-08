@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fnJrXIarxu0=",
+  "dgSpecHash": "3go+FzExag0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\08.10.2024_egz\\08.10.2024_egz.csproj",
+  "projectFilePath": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\08.10.2024_egz\\08.10.2024_egz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kapig\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\kapig\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
