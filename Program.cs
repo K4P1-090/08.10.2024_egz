@@ -1,6 +1,9 @@
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllers();
 var app = builder.Build();
+app.MapDefaultControllerRoute();
+app.UseStaticFiles();
 
-app.MapGet("/", () => aspnetcore3._1.Controllers.HomeController.Index());
+app.MapGet("/", () => "Hello World!");
 
 app.Run();
